@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "oceanic-toolbox-360909",
+  "private_key_id": "97f3be97fc3be590107b91841b72b9fb2d56a715",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJy8yHCm4y/rA9\ncLmCfuMqBrOgBc3iaWod0Wxj7hNUPb2PuzcYVzJ6uxUkYFDXRJliF6MAHUvJbeow\nx4txkartdNxAXS1vUIRqo1nhcal6csgEEDFWMwst9AysW9yuITdwt5W5nozLXJl2\nRC/nUT/jZ0W9L/aiDeTEObAzVIC/WxSITgr6x4Bu4kqFYcfxRn/m/cKNC+R0Vk2l\neVyKYoEpVJNIHW6nM5OFShTB1oWawWBGbA9Oi7p8nwuCJ0kdWll1YluEmi7vBLLF\nwkZnQNrHRmvPO/KpMnA9BL1ng0BLFjXe/rleO4DSF9SPDtGMffEKQ36UQpGCk8y+\na4x9QDrjAgMBAAECggEAIRoPonsbeO2c6c2MCvCvYnekq/LpABRhtRMLjj/xbcG9\nKWuIczTzP+90Rz5J/USR8jIKaqse+x8H7Lrq4Rfkr1Fs3ZtkoEJ/5Nwj6dfzpiIv\nsWYwa+wsKdhgOQGCVGRPXKkFc0dGvE2c4f/EYDWw+tBivO1qOojK5WaUUOhiW1VM\nLo7FDQXh8+ciKi5gRZOUdx+JOvQEjjbISxalgPy7OjOWnr9UoXyjYGXUA0sAlHtn\n1OQqtR/Fc9ldF/DrCCGdxsbwO8qCN7wlsIAkYZ8dlHnZdnVsrRspu249LBSaWqbm\nbT3+josVd3bI2yNr15E5oo45lqzvU9V49nT7Ls4nIQKBgQC87vdMC8TRDxHQOzJ4\nblk9sN2vljIUGgeKm8fiJodP4Ob5IY3J1zTbzL4QK6bKxXAdc0/ocI9zZBwtJUyE\nkDdx28acrPrJB7kvxGDXV/5pdx2CsU84H8O5CtKWNOZhlXZloLyYA8GS9He2b43G\n7TdpeppStI55DlYOANdZeSmsQwKBgQC6tc3QGaORkFW3cv+aPwyLIyQTm1LVdoXH\nngpZbXAlHOa7GPGPOKTz6taAXGl5OtVErG0DuzAdkngjMoUKu0o1T8HLmFUHmpZg\ni+61YfxdLDuk12dr4ilXkMS7u9tHjd7zz6V2P/PsvB3CPDdGdi8FfMjSCQNsVqqQ\nmh2Co82c4QKBgQCg9VD3l3soxBbf+N7JnPEoTnq+sU2etIJCQu8qKrrSgX8lNcHO\n+CoPK8GskxO44jXe0TN9ig+cNeiPSZyDvz2NIbh2GCRbidnp6Pq72zpibVlV02rz\nHJSpG6BG2XCAKE5CzIp/U4vhf6ZRZX46wDOaCBpbZXmPhngn2+2bS08GcwKBgBAF\nufu5t4euUyzC+ZxK/NCT22yzT5Bx81kF/u1drtoAeOxlX5VizwT/ihjJ1WNJ4TNb\neJ9xWNew0g5zL2eUWvHoPkEyeVmFspHmcD2wgu+b9CJZOc7QQav6CGfz3wVs700M\n7K4RHuWZ3xPkBvpM+gwGgVVE4L5TUZ/HGfE0DVkBAoGBAKU87P8alVBBv8UdjEP2\n0memdfb3+wfk8RodTE0xlfjcF9jCnE2Czc+uQimv5b7LuDzYi+6nb0EFdjs6KccD\noj3VNXucfdXmHuhIfrVPUeZJeUNgqjOZxs6CkDDU/Wl85n7x3mQKd2xgw7e2dp6Q\nv6Jf4oMaYDh7mk8Q6saeMHdN\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-f50wqdh3g63siyaewohy3cryvx@oceanic-toolbox-360909.iam.gserviceaccount.com",
+  "client_id": "113144392025166912200",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-f50wqdh3g63siyaewohy3cryvx%40oceanic-toolbox-360909.iam.gserviceaccount.com"
+}
